@@ -1,0 +1,12 @@
+.header__container {
+    display: flex;
+    height: 50px;
+    padding: var(--spasing-smail);
+    background-color: var(--color-medium);
+}
+.header__counter {
+    font-weight: bold;
+    margin-left: auto;
+    padding-right: var(--spasing-smail);
+    cursor: pointer;
+}
